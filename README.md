@@ -1,16 +1,35 @@
-## Hi there 👋
-
-<!--
-**w3br/w3br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hey, I'm Max 
+ 
+Media Informatics student with roots in visual design — I care about the craft at the intersection of code and aesthetics, from modern web apps to real-time rendering with OpenGL.
+ 
+---
+ 
+## Tech Stack
+ 
+**Languages**
+`Java` `C++` `TypeScript` `HTML` `CSS` 
+ 
+**Frameworks & Libraries**
+`Angular` `Spring Boot`
+ 
+**Graphics & Rendering**
+`OpenGL`
+ 
+---
+ 
+## Currently exploring
+- Real-time rendering techniques with OpenGL
+- Clean architecture in full-stack web applications
+ 
+---
+ 
+## Fun Facts about me
+ 
+- 🎛 I design sounds on my synthesizer in my spare time
+- 🎨 Graphic design is a big part of how I think, even when I'm writing code
+- 👁 I'm drawn to interfaces that feel considered — where typography, spacing, and motion actually matter
+- ☕ Probably over-engineering something right now
+ 
+---
+ 
+ 
