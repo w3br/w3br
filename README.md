@@ -1,4 +1,4 @@
-### Hey, I'm Max
+### Hey, I'm Max 🙋🏻‍♂️
 
 Media Informatics student based in Vienna with roots in visual design.
 I care about the craft at the intersection of code and aesthetics, from modern web apps to real-time rendering with OpenGL.
