@@ -3,8 +3,6 @@
 Media Informatics student based in Vienna with roots in visual design.
 I care about the craft at the intersection of code and aesthetics, from modern web apps to real-time rendering with OpenGL.
 
----
-
 ### Tech Stack
 
 **Languages:**
@@ -16,14 +14,10 @@ I care about the craft at the intersection of code and aesthetics, from modern w
 **Graphics & Rendering:**
 `OpenGL`
 
----
-
 ### Currently Exploring
 
 - Real-time rendering techniques with OpenGL
 - Clean architecture in full-stack web applications
-
----
 
 ### Fun Facts
 
