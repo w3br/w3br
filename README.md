@@ -1,35 +1,28 @@
 # Hey, I'm Max 
  
 Media Informatics student with roots in visual design — I care about the craft at the intersection of code and aesthetics, from modern web apps to real-time rendering with OpenGL.
- 
----
+
  
 ## Tech Stack
  
-**Languages**
+**Languages:**
 `Java` `C++` `TypeScript` `HTML` `CSS` 
  
-**Frameworks & Libraries**
+**Frameworks & Libraries:**
 `Angular` `Spring Boot`
  
-**Graphics & Rendering**
+**Graphics & Rendering:**
 `OpenGL`
- 
----
  
 ## Currently exploring
 - Real-time rendering techniques with OpenGL
 - Clean architecture in full-stack web applications
  
----
  
 ## Fun Facts about me
  
 - 🎛 I design sounds on my synthesizer in my spare time
 - 🎨 Graphic design is a big part of how I think, even when I'm writing code
-- 👁 I'm drawn to interfaces that feel considered — where typography, spacing, and motion actually matter
 - ☕ Probably over-engineering something right now
- 
----
  
  
