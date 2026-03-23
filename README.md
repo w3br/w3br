@@ -9,7 +9,7 @@ I care about the craft at the intersection of code and aesthetics, from modern w
 `Java` `C++` `TypeScript` `HTML` `CSS`
 
 **Frameworks & Libraries:**
-`Angular` `Spring Boot`
+`Angular` `Spring Boot` `Bootstrap`
 
 **Graphics & Rendering:**
 `OpenGL`
