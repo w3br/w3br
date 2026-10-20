@@ -8,7 +8,7 @@ Media Informatics student based in Vienna with roots in visual design.
 `Java` `C++` `TypeScript` `HTML` `CSS`
 
 **Frameworks & Libraries:**
-`Angular` `Spring Boot` `Bootstrap`
+`Angular` `React` `Spring Boot` `Bootstrap`
 
 **Graphics & Rendering:**
 `OpenGL`
