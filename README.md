@@ -15,11 +15,11 @@ Media Informatics student based in Vienna with roots in visual design.
 
 ### Currently Exploring
 
-- Real-time rendering techniques with OpenGL
+- Ui/UX and frontend of react-based web applications
 - Clean architecture in full-stack web applications
 
 ### Fun Facts
 
-- 🎛 I design sounds on my synthesizer in my spare time
-- 🎨 Graphic design is a big part of how I think, even when I'm writing code
-- ☕ Probably over-engineering something right now
+-  I design sounds on my synthesizer in my spare time
+-  Graphic design is a big part of how I think, even when I'm writing code
+-  Probably over-engineering something right now
